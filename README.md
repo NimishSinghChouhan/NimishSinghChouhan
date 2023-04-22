@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/9F5jCXeRpces4o4C7)](https://NimishSinghChouhan.io)
+[![MasterHead](https://images.app.goo.gl/9F5jCXeRpces4o4C7)](https://nimishsinghchouhan.io)
 <h1 align="center">Hi 👋, I'm Nimish Singh Chouhan</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/y4QJi91w2F9cFRNG7">
