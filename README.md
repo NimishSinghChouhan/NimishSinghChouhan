@@ -1,6 +1,7 @@
+[![MasterHead](https://gfycat.com/realterriblekoodoo)](https://NimishSinghChouhan.io)
 <h1 align="center">Hi 👋, I'm Nimish Singh Chouhan</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/En1y.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimishsinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="nimishsinghchouhan" /> </p>
 
 
