@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nimish Singh Chouhan</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimishsinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="nimishsinghchouhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimishsinghchouhan" alt="nimishsinghchouhan" /></a> </p>
+
 
 - 📫 How to reach me **nimish.singh2020@vitbhopal.ac.in**
 
