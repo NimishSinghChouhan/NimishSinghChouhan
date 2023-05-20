@@ -1,5 +1,7 @@
+![logo](https://github.com/NimishSinghChouhan/NimishSinghChouhan/blob/main/Banner.gif)
 
 
+<h2>Hi 👋, I'm Nimish Singh Chouhan</h2><br>
 # 💫 About Me:
 👨‍🎓 I'm a Computer Science Engineering Student<br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning: AWS and AI<br>📬 How to reach me: nimish13chouhan@gmail.com
 
